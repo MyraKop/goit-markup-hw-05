@@ -549,9 +549,9 @@ margin-right: 120px;
         margin-bottom: 16px;
 }
 
-.footer-label {
+.footer-form{
     display: flex;
-    gap: 24px;
+        gap: 24px;  
 }
 
 .footer-input {
@@ -561,7 +561,6 @@ margin-right: 120px;
     border-radius: 4px;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     background: var(--navyblue);
-    margin-right: 24px;
 }
 
 .footer-form-bt {
